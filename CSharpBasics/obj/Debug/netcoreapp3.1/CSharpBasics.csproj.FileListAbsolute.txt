@@ -1,0 +1,11 @@
+E:\Visual Studio\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.exe
+E:\Visual Studio\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.deps.json
+E:\Visual Studio\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.runtimeconfig.json
+E:\Visual Studio\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.runtimeconfig.dev.json
+E:\Visual Studio\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.dll
+E:\Visual Studio\CSharpBasics\bin\Debug\netcoreapp3.1\CSharpBasics.pdb
+E:\Visual Studio\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.csprojAssemblyReference.cache
+E:\Visual Studio\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.AssemblyInfoInputs.cache
+E:\Visual Studio\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.AssemblyInfo.cs
+E:\Visual Studio\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.dll
+E:\Visual Studio\CSharpBasics\obj\Debug\netcoreapp3.1\CSharpBasics.pdb
