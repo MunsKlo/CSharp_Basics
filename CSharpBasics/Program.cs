@@ -22,6 +22,7 @@ namespace CSharpBasics
                     ShowMenu();
                     var task = GetTask(Input());
                     Output(task);
+                    Console.Clear();
                 }
                 catch (Exception error)
                 {
@@ -45,7 +46,8 @@ namespace CSharpBasics
 
         private static void ShowMenu()
         {
-            Console.WriteLine("Choose the task! (Write the letter at the begin)");
+            Console.WriteLine("Choose the task! (Write the letter with the bracket of the task.)");
+            Console.WriteLine("Schreibe ein Konsolenprogramm, das");
             for (int i = 0; i < Variables.tasks.Count; i++)
             {
                 var task = Variables.tasks[i];

@@ -19,12 +19,34 @@ namespace CSharpBasics
         };
         public static List<Action> methods = new List<Action>
         {
-            TaskSolves.TaskA,
-            TaskSolves.TaskB,
-            TaskSolves.TaskC,
-            TaskSolves.TaskD,
-            TaskSolves.TaskE,
-            TaskSolves.TaskF,
+            TaskSolutions.TaskA,
+            TaskSolutions.TaskB,
+            TaskSolutions.TaskC,
+            TaskSolutions.TaskD,
+            TaskSolutions.TaskE,
+            TaskSolutions.TaskF,
+        };
+        public static Dictionary<int, string> gameOptions = new Dictionary<int, string>()
+        {
+            { 1, "Schere" },
+            { 2, "Stein" },
+            { 3, "Papier"},
+            { 4, "Echse"},
+            { 5, "Spok"}
+        };
+           
+        public enum GameOptions
+        {
+            Stein, Papier, Schere, Echse, Spok
+        }
+
+        public static List<string> BotNames = new List<string>
+        {
+            "Muffin",
+            "Portge",
+            "DerEineVonDort",
+            "Noob4ever",
+            "ReadySteadyGo"
         };
     }
 }
